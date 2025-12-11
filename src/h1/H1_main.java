@@ -9,3 +9,10 @@ public class H1_main {
 		b1.hasSameValueAs(b);
 	}
 }
+/*echo "# Uebung8" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote set-url origin https://github.com/tutsi193/Uebung8.git
+git push -u origin main*/
